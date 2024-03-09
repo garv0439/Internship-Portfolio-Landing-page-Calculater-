@@ -1,3 +1,3 @@
-#Internship-Portfolio
+#Internship
 
 Codsoft Internship
